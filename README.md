@@ -33,3 +33,6 @@ Libreria criptaggio password http://www.jasypt.org/
 Istruzioni installazione PostMan https://www.angeloparziale.it/blog/2017/06/22/postman/
 
 Documentazione AJAX: https://www.w3schools.com/xml/ajax_intro.asp
+
+## Spring Initializer
+https://start.spring.io/
