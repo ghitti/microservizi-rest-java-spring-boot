@@ -12,7 +12,7 @@ Istruzioni installazione IntelliJIDEA Community Edition https://www.jetbrains.co
 
 Link di istallazione di XAMPP: https://www.apachefriends.org/download.html
 
-Documentazione Spring Framework https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/spring-framework-reference.pdf
+Documentazione Spring Framework https://docs.spring.io/autorepo/docs/spring-framework/4.1.8.RELEASE/spring-framework-reference/pdf/spring-framework-reference.pdf
 
 Documentazione Spring Boot https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
 
