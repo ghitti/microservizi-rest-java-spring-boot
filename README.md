@@ -14,7 +14,7 @@ Link di istallazione di XAMPP: https://www.apachefriends.org/download.html
 
 Documentazione Spring Framework https://docs.spring.io/autorepo/docs/spring-framework/4.1.8.RELEASE/spring-framework-reference/pdf/spring-framework-reference.pdf
 
-Documentazione Spring Boot https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
+Documentazione Spring Boot https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
 
 Documentazione JPA https://docs.spring.io/spring-data/jpa/docs/current/reference/pdf/spring-data-jpa-reference.pdf
 
