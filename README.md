@@ -16,8 +16,7 @@ Documentazione Spring Framework https://docs.spring.io/autorepo/docs/spring-fram
 
 Documentazione Spring Boot https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
 
-Documentazione JPA https://docs.spring.io/spring-data/jpa/docs/current/reference/pdf/spring-data-jpa-reference.pdf
-
+Documentazione JPA https://docs.spring.io/spring-data/jpa/docs/1.10.x/reference/pdf/spring-data-jpa-reference.pdf
 Ottimo tutorial JPA https://www.petrikainulainen.net/spring-data-jpa-tutorial/
 
 Strategie per definire i metodi-query https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-creating-database-queries-from-method-names/ https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-introduction-to-query-methods/
