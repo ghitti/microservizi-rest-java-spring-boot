@@ -22,7 +22,9 @@ Ottimo tutorial JPA https://www.petrikainulainen.net/spring-data-jpa-tutorial/
 
 Strategie per definire i metodi-query https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-creating-database-queries-from-method-names/ https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-introduction-to-query-methods/
 
-Documentazione JWT https://stormpath.com/blog/jwt-java-create-verify https://stormpath.com/blog/beginners-guide-jwts-in-java https://github.com/jwtk/jjwt
+Documentazione JWT https://stormpath.com/blog/jwt-java-create-verify
+https://stormpath.com/blog/beginners-guide-jwts-in-java 
+https://github.com/jwtk/jjwt
 
 Documentazione JSR-303 http://beanvalidation.org/1.0/spec/
 
